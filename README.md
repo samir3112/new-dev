@@ -1,3 +1,3 @@
 # new-dev
 New dev repo practise.
-Author- Samir Parate
+Author - Samir Parate
